@@ -13,5 +13,9 @@ int main()
     printf("Roll            :%d\n",roll);
     printf("Percentage      :%f\n",per);
     printf("Fee             :%lf\n",fee);
+    printf("Size of char    :%d byte\n",sizeof(grade));
+    printf("Size of int     :%d byte\n",sizeof(roll));
+    printf("Size of float   :%d byte\n",sizeof(per));
+    printf("Size of double  :%d byte\n",sizeof(fee));
     return 0;
 }
