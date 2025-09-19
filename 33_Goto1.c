@@ -1,3 +1,4 @@
+// Goto program - printing the value of i from 1 to 10
 #include <stdio.h>
 int main()
 {
